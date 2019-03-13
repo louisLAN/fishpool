@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<macsn_manage>
+  <TotalMac Xname="中文表示" devicetype="H1s-2" TotalMacStart="00:00:00:00:00:00" TotalMacEnd="12:12:FF:FF:9F:FF" tSNstart="A4000000">
+    <UsedMac nodecount="0" usenum="300" usage="测试节点1" MacStart="00:00:00:00:00:00" MacEnd="12:12:FF:FF:9F:FF" SNstart="A4000000" SNend="A400012C"/>
+    <UsedMac nodecount="1" usenum="300" usage="测试节点1" MacStart="00:00:00:00:00:00" MacEnd="12:12:FF:FF:9F:FF" SNstart="A4000000" SNend="A400012C"/>
+    <UsedMac nodecount="2" usenum="300" usage="测试节点1" MacStart="00:00:00:00:00:00" MacEnd="12:12:FF:FF:9F:FF" SNstart="A4000000" SNend="A400012C"/>
+  </TotalMac>
+</macsn_manage>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<macsn_manage>
+  <TotalMac Xname="testnumdur">
+    <devicetype>H1s-2</devicetype>
+    <TotalMacStart>00:00:00:00:00:00</TotalMacStart>
+    <TotalMacEnd>00:01:4E:8B:2A:FF</TotalMacEnd>
+    <tSNstart>A4000000</tSNstart>
+  </TotalMac>
+</macsn_manage>

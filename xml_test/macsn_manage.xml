@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<macsn_manage>
+  <TotalMac Xname="中文表示" devicetype="H2r-1" TotalMacStart="00:E4:00:00:00:00" TotalMacEnd="00:e4:00:18:69:da" tSNstart="A4100000">
+    <UsedMac nodecount="1" usenum="300" usage="testnode2" MacStart="00:E4:00:00:00:01" MacEnd="00:E4:00:00:01:2C" SNstart="A4100000" SNend="A410012B"/>
+    <UsedMac nodecount="3" usenum="300" usage="testnode2" MacStart="00:E4:00:00:02:59" MacEnd="00:E4:00:00:03:84" SNstart="A4100258" SNend="A4100383"/>
+    <UsedMac nodecount="4" usenum="300" usage="testnode2" MacStart="00:E4:00:00:03:85" MacEnd="00:E4:00:00:04:B0" SNstart="A4100384" SNend="A41004AF"/>
+    <UsedMac nodecount="5" usenum="300" usage="testnode2" MacStart="00:E4:00:00:04:B1" MacEnd="00:E4:00:00:05:DC" SNstart="A41004B0" SNend="A41005DB"/>
+    <UsedMac nodecount="6" usenum="300" usage="testnode2" MacStart="00:E4:00:00:05:DD" MacEnd="00:E4:00:00:07:08" SNstart="A41005DC" SNend="A4100707"/>
+    <UsedMac nodecount="7" usenum="300" usage="testnode2" MacStart="00:E4:00:00:07:09" MacEnd="00:E4:00:00:08:34" SNstart="A4100708" SNend="A4100833"/>
+  </TotalMac>
+</macsn_manage>
